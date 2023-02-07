@@ -31,7 +31,7 @@ And here you see the desktop view.
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://lepamoore.github.io/Frontendmentorio-Project3-Grid/)
 
 ## My process
 
