@@ -10,7 +10,7 @@
     display: block;
     background-color: #19202D;
     color: #FFF;
-    height: 5vh;
+    height: 40px;
    }
 
 .attribution { 
@@ -26,6 +26,7 @@
     font-size: 13px;
     text-align: left;
     font-family: "Barlow Semi Condensed";
+    box-sizing: border-box;
 }
 
 html {
@@ -38,7 +39,6 @@ html {
 body {
     background-color: #F2F2F2;
     overflow: scroll;
-100%
 }
 
 main {
@@ -219,7 +219,7 @@ div#container {
         display: flex;
         justify-content: center;
         align-items: center;
-        
+        margin: 2rem;
     }
 
     .review {
